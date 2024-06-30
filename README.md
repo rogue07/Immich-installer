@@ -1,4 +1,5 @@
 # Immich-installer
+# Tested on Ubuntu 22.04.4
 
 1. Make sure you have a domain or subdomain already
 2. Set a static IP
